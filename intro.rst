@@ -45,7 +45,7 @@ The `Navier-Stokes` equation:
 
 .. math::
 
-   (\frac{\partial u}{\partial t} + u\cdot\nabla u) = - \nabla p + \mu\Delta u
+   \Big(\frac{\partial u}{\partial t} + u\cdot\nabla u\Big) = - \nabla p + \mu\Delta u
 
 
 
