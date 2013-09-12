@@ -41,6 +41,11 @@ Test
 
   W^{3\beta}_{\delta_1 \rho_1 \sigma_2} \approx U^{3\beta}_{\delta_1 \rho_1}
 
+The `Navier-Stokes` equation:
+
+.. math::
+
+   (\frac{\partial u}{\partial t} + u\cdot\nabla u) = - \nabla p + \mu\Delta u
 
 
 
